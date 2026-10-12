@@ -173,17 +173,11 @@ Desktop view
 */
 @media (min-width: 825px) {
 
-.nav {
-text-align: center;
-align-self: center;
-justify-self: center;
+nav {
+text-align:right;
 padding: 35px 0;
 }
 
-.nav {
-margin-right: auto;
-padding: 35px 0px;
-}
 
 .container {
 display: grid;
